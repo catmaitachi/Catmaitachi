@@ -30,6 +30,7 @@ Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi que
   <img src="https://img.shields.io/badge/Copilot-1A237E.svg?style=for-the-badge&logo=githubcopilot&logoColor=E3F2FD" height="25" alt="github copilot"/>
   <img src="https://img.shields.io/badge/VS%20Code-1A237E.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=E3F2FD" height="25" alt="vs code"/>
   <img src="https://img.shields.io/badge/Figma-1A237E.svg?style=for-the-badge&logo=Figma&logoColor=E3F2FD" height="25" alt="figma"/>
+  <img src="https://img.shields.io/badge/Camunda-1A237E.svg?style=for-the-badge&logo=Camunda&logoColor=E3F2FD" height="25" alt="camunda"/>
   <img src="https://img.shields.io/badge/Gemini-1A237E.svg?style=for-the-badge&logo=Google-Gemini&logoColor=E3F2FD" height="25" alt="gemini"/>
   <img src="https://img.shields.io/badge/Sheets-1A237E.svg?style=for-the-badge&logo=Google-Sheets&logoColor=E3F2FD" height="25" alt="google sheets"/>
   <img src="https://img.shields.io/badge/Markdown-1A237E.svg?style=for-the-badge&logo=Markdown&logoColor=E3F2FD" height="25" alt="markdown"/>
