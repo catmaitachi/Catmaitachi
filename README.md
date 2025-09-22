@@ -8,11 +8,11 @@
 
 <h2 align="center"><p style="color:#1A237E">Um pouco da minha história ✨</p></h2>
 
-_Desde pequeno, meu interesse por tecnologia surgiu junto com os **vídeo-games**. Sempre fui curioso, explorando configurações, aprendendo a mexer em sistemas e resolvendo problemas por conta própria. Gostava de descobrir como as coisas funcionavam, desvendando mistérios e buscando soluções. Acho que essa foi a base para tudo, além de me tornar bem aculturado._
+Desde pequeno, meu interesse por tecnologia surgiu junto com os **vídeo-games**. Sempre fui curioso, explorando configurações, aprendendo a mexer em sistemas e resolvendo problemas por conta própria. Gostava de descobrir como as coisas funcionavam, desvendando mistérios e buscando soluções. Acho que essa foi a base para tudo, além de me tornar bem aculturado.
 
-_Durante o ensino médio, tive a chance de fazer um curso **Técnico em Informática** no **Senac**, em Contagem/MG. Lá, mergulhei em temas como **hardware**, **software**, **sistemas operacionais**, **redes**, **design**, **desenvolvimento** e **programação**. Essa experiência foi decisiva: ao participar de projetos e escrever minhas primeiras linhas de código, percebi que era exatamente isso que eu queria seguir. A certeza de estar no caminho certo ficou clara desde então._
+Durante o ensino médio, tive a chance de fazer um curso **Técnico em Informática** no **SENAC**, em Contagem/MG. Lá, mergulhei em temas como **hardware**, **software**, **sistemas operacionais**, **redes**, **design**, **desenvolvimento** e **programação**. Essa experiência foi decisiva: ao participar de projetos e escrever minhas primeiras linhas de código, percebi que era exatamente isso que eu queria seguir. A certeza de estar no caminho certo ficou clara desde então.
 
-_Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi que **Engenharia de Software** era o curso que mais combinava com meus interesses: **análise**, **planejamento**, **modelagem** e **desenvolvimento de projetos de software**. Escolhi a **PUC Minas** para dar esse passo importante, e sigo em formação, aprendendo e evoluindo a cada semestre, tentando viver um pouco também. Tem sido uma jornada maravilhosa e cheia de novas visões, oportunidades e parcerias._
+Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi que **Engenharia de Software** era o curso que mais combinava com meus interesses: **análise**, **planejamento**, **modelagem** e **desenvolvimento de projetos de software**. Escolhi a **PUC Minas** para dar esse passo importante, e sigo em formação, aprendendo e evoluindo a cada semestre, tentando viver um pouco também. Tem sido uma jornada maravilhosa e cheia de novas visões, oportunidades e parcerias.
 
 ---
 
@@ -33,6 +33,8 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
   <img src="https://img.shields.io/badge/Gemini-1A237E.svg?style=for-the-badge&logo=Google-Gemini&logoColor=E3F2FD" height="25" alt="gemini"/>
   <img src="https://img.shields.io/badge/Sheets-1A237E.svg?style=for-the-badge&logo=Google-Sheets&logoColor=E3F2FD" height="25" alt="google sheets"/>
   <img src="https://img.shields.io/badge/Markdown-1A237E.svg?style=for-the-badge&logo=Markdown&logoColor=E3F2FD" height="25" alt="markdown"/>
+  <img src="https://img.shields.io/badge/n8n-1A237E.svg?style=for-the-badge&logo=n8n&logoColor=E3F2FD" height="25" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Docker-1A237E.svg?style=for-the-badge&logo=Docker&logoColor=E3F2FD" height="25" alt="docker"/>
 </p>
 
 <h3 align="center" style="color:#1A237E">🌐 Front-end</h3>
@@ -40,18 +42,17 @@ _Aos 19 anos, decidi iniciar minha graduação. Após muita pesquisa, percebi qu
   <img src="https://img.shields.io/badge/HTML5-1A237E.svg?style=for-the-badge&logo=HTML5&logoColor=E3F2FD" height="25" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS-1A237E.svg?style=for-the-badge&logo=CSS3&logoColor=E3F2FD" height="25" alt="css"/>
   <img src="https://img.shields.io/badge/Bootstrap-1A237E.svg?style=for-the-badge&logo=Bootstrap&logoColor=E3F2FD" height="25" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/JavaScript-1A237E.svg?style=for-the-badge&logo=JavaScript&logoColor=E3F2FD" height="25" alt="javascript"/>
   <img src="https://img.shields.io/badge/React-1A237E.svg?style=for-the-badge&logo=React&logoColor=E3F2FD" height="25" alt="react"/>
 </p>
 
 <h3 align="center" style="color:#1A237E">⚙️ Back-end & Linguagens</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-1A237E.svg?style=for-the-badge&logo=nodedotjs&logoColor=E3F2FD" height="25" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/JavaScript-1A237E.svg?style=for-the-badge&logo=JavaScript&logoColor=E3F2FD" height="25" alt="javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-1A237E.svg?style=for-the-badge&logo=TypeScript&logoColor=E3F2FD" height="25" alt="typescript"/>
   <img src="https://img.shields.io/badge/C-1A237E.svg?style=for-the-badge&logo=C&logoColor=E3F2FD" height="25" alt="C"/>
-  <img src="https://img.shields.io/badge/C%23-1A237E.svg?style=for-the-badge&logo=C-sharp&logoColor=E3F2FD" height="25" alt="C#"/>
   <img src="https://img.shields.io/badge/Java-1A237E.svg?style=for-the-badge&logo=Java&logoColor=E3F2FD" height="25" alt="java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-1A237E.svg?style=for-the-badge&logo=Spring-Boot&logoColor=E3F2FD" height="25" alt="spring boot"/>
-  <img src="https://img.shields.io/badge/PHP-1A237E.svg?style=for-the-badge&logo=PHP&logoColor=E3F2FD" height="25" alt="php"/>
   <img src="https://img.shields.io/badge/Python-1A237E.svg?style=for-the-badge&logo=Python&logoColor=E3F2FD" height="25" alt="python"/>
   <img src="https://img.shields.io/badge/SQL-1A237E.svg?style=for-the-badge&logo=MySQL&logoColor=E3F2FD" height="25" alt="sql"/>
 </p>
